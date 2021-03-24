@@ -6,17 +6,10 @@
 
 "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code. But I prefer to sacrifice my bed for it."
 
-## :computer: Technologies I Love
-* React JS
-* Node JS
-* Express JS
-* Bootstrap
-* React Native
-
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=im-rh-ansari&layout=compact">
 
-## Tech Stack
+## :computer:Tech Stack
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/bootstrap-4.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/react-2.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/nodejs-icon.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/react-native-firebase-1.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/visual-studio-code-1.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/mongodb-icon-1.svg' width='30'/>
  
 ## Current Works
