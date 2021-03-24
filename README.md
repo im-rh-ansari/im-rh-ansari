@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Razaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razaul-hasan-ansari-51a582195/)](https://www.linkedin.com/in/ankay21200/) [![Gmail Badge](https://img.shields.io/badge/-razaulhasanansari2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:razaulhasanansari2000@gmail.com)](mailto:razaulhasanansari2000@gmail.com)
 
-"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+"I code as if the guy who ends up maintaining my code will be a violent psychopath who knows where I live."
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=im-rh-ansari&layout=compact">
