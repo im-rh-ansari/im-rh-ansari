@@ -16,8 +16,8 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=im-rh-ansari&layout=compact">
 
-## Programming Languages and Frameworks
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/react-2.svg' width='30'/>
+## Tech Stack
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/mongodb-icon-1.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/react-2.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/nodejs-icon.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/react-native-firebase-1.svg' width='30'/> <img src = 'https://github.com/im-rh-ansari/im-rh-ansari/blob/main/data/visual-studio-code-1.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps With React JS,Node JS and Express JS** 
